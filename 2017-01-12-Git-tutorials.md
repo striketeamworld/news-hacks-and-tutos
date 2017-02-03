@@ -4,3 +4,4 @@
 * [Git mastering!](http://stevelosh.com/blog/2013/04/git-koans/)
 * [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [How to contribute to an open source project on GitHub](http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/)
+* [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)

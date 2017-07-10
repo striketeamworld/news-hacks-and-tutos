@@ -1,0 +1,2 @@
+- [Introduction to Operating Systems by Georgia Tech](https://www.udacity.com/course/introduction-to-operating-systems--ud923)++
+- [A Brief Introduction to Operating Systems](http://greenteapress.com/thinkos/)
